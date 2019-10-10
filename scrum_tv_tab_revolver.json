@@ -26,5 +26,11 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 600
     }
+    ,
+    {
+      "url":"https://artifactuprising.looker.com/dashboards/181",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600 
+    }
   ]
 }
