@@ -5,13 +5,12 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      /* Holiday Cards */
+
       "url": "https://artifactuprising.looker.com/dashboards/362",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
-      /* Simple Drake */
       "url": "https://artifactuprising.looker.com/dashboards/334",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
