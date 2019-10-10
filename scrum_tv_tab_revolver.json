@@ -5,24 +5,17 @@
   "lazyLoadTabs": false,
   "websites": [
     {
+      /* Holiday Cards */
       "url": "https://artifactuprising.looker.com/dashboards/362",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
-    },
-    {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      /* Simple Drake */
+      "url": "https://artifactuprising.looker.com/dashboards/334",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
-    {
-      "url": "https://ie.linkedin.com/in/kevinsheedy",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    }
+
   ]
 }
