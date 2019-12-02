@@ -5,38 +5,38 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-
-      "url": "https://artifactuprising.looker.com/dashboards/362",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 600
-    },
-    {
-      "url": "https://artifactuprising.looker.com/dashboards/334",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 600
-    },
-    {
-      "url": "https://artifactuprising.looker.com/dashboards/359",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 600
-    }
-    ,
-    {
-      "url": "https://artifactuprising.looker.com/dashboards/360",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 600
-    }
-    ,
-    {
+      "comment":"Yesterday's Performance",
       "url":"https://artifactuprising.looker.com/dashboards/181",
       "duration": 20,
       "tabReloadIntervalSeconds": 600 
     }
     ,
     {
-      "url":"https://artifactuprising.looker.com/dashboards/283",
+      "comment":"Today's Performance",
+      "url":"https://artifactuprising.looker.com/dashboards/407",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600 
+    }
+    ,
+    {
+      "comment":"Cyber Monday Hour by Hour",
+      "url":"https://artifactuprising.looker.com/looks/1937",
       "duration": 20,
       "tabReloadIntervalSeconds": 600      
+    }    
+    ,
+    {
+      "comment":"AU Live",
+      "url":"https://analytics.google.com/analytics/web/#/dashboard/kW6HbhFGQbuxb0daSIcLnQ/a41744088w71430810p73661826/_u.date00=20181126&_u.date01=20181126&_u.date10=20171127&_u.date11=20171127/",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600      
+    }
+    ,
+    {
+      "comment":"Competition",
+      "url":"https://docs.google.com/spreadsheets/d/1bsVA2J6cUvcnsMVYOFcAYqAp9yJgYjckoX-m3vrYEsM/edit#gid=0",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600        
     }
   ]
 }
