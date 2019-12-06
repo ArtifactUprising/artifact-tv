@@ -1,0 +1,28 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "comment":"Yesterday's Performance",
+      "url":"https://artifactuprising.looker.com/dashboards/181",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600 
+    }
+    ,
+    {
+      "comment":"Today's Performance",
+      "url":"https://artifactuprising.looker.com/dashboards/407",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600 
+    }      
+    ,
+    {
+      "comment":"AU Live",
+      "url":"https://analytics.google.com/analytics/web/#/dashboard/kW6HbhFGQbuxb0daSIcLnQ/a41744088w71430810p73661826/_u.date00=20181126&_u.date01=20181126&_u.date10=20171127&_u.date11=20171127/",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 600      
+    }
+  ]
+}
