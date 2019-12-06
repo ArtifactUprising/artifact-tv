@@ -24,5 +24,12 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 600      
     }
+    ,
+    {
+      "comment":"Monetate",
+      "url":"https://marketer.monetate.net/control/a-bfb9b905/p/artifactuprising.com/analytics/1179021/dynamic",
+      "duration":20,
+      "tabReloadIntervalSeconds": 600
+    }
   ]
 }
