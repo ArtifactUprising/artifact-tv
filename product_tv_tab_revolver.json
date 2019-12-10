@@ -26,8 +26,7 @@
     }
     ,
     {
-      "comment":"hourly in editor",
-      "url":"https://heapanalytics.com/app/graph/17320085",
+      "url":"https://heapanalytics.com/app/dashboard/What-s-going-on-now-167568",
       "duration":20,
       "tabReloadIntervalSeconds": 600
     }
