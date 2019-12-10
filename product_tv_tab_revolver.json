@@ -37,5 +37,10 @@
       "duration":20,
       "tabReloadIntervalSeconds": 600
     }
+    ,
+    {
+      "url":"https://www.youtube.com/watch?v=7b5C2GN8C7s&feature=emb_logo",
+      "duration":20
+    }
   ]
 }
