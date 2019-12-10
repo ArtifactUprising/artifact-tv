@@ -30,5 +30,12 @@
       "duration":20,
       "tabReloadIntervalSeconds": 600
     }
+    ,
+    {
+      "comment":"Hour by Hour",
+      "url":"https://artifactuprising.looker.com/looks/1957?toggle=det",
+      "duration":20,
+      "tabReloadIntervalSeconds": 600
+    }
   ]
 }
