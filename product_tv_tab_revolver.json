@@ -50,5 +50,10 @@
       "url":"https://artifactuprising.zendesk.com/agent/reporting/leaderboard/period:2"
       ,"duration":20
     }
+    ,
+    {
+      "url":"https://marketer.monetate.net/control/a-bfb9b905/p/artifactuprising.com/analytics/1182749/dynamic"
+      ,"duration":20
+    }
   ]
 }
