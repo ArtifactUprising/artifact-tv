@@ -45,6 +45,10 @@
     {
       "url":"https://artifactuprising.zendesk.com/agent/reporting/overview/period:2/selected:created_count,solve_count"
       ,"duration":20
+    },
+    {
+      "url":"https://artifactuprising.zendesk.com/agent/reporting/leaderboard/period:2"
+      ,"duration":20
     }
   ]
 }
