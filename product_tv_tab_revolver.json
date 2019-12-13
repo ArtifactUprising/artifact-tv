@@ -6,14 +6,14 @@
   "websites": [
     {
       "comment":"Yesterday's Performance",
-      "url":"https://artifactuprising.looker.com/dashboards/181",
+      "url":"https://artifactuprising.looker.com/dashboards/407?Date=yesterday&filter_config=%7B%22Date%22:%5B%7B%22type%22:%22advanced%22,%22values%22:%5B%7B%22constant%22:%22yesterday%22%7D,%7B%7D%5D,%22id%22:7%7D%5D%7D",
       "duration": 20,
       "tabReloadIntervalSeconds": 600 
     }
     ,
     {
       "comment":"Today's Performance",
-      "url":"https://artifactuprising.looker.com/dashboards/407",
+      "url":"https://artifactuprising.looker.com/dashboards/407?Date=today&filter_config=%7B%22Date%22:%5B%7B%22type%22:%22advanced%22,%22values%22:%5B%7B%22constant%22:%22today%22%7D,%7B%7D%5D,%22id%22:2%7D%5D%7D",
       "duration": 20,
       "tabReloadIntervalSeconds": 600 
     }      
