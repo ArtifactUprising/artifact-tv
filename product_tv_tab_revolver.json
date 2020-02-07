@@ -12,13 +12,6 @@
     }
     ,
     {
-      "comment":"Today's Performance",
-      "url":"https://artifactuprising.looker.com/dashboards/407?Date=today&filter_config=%7B%22Date%22:%5B%7B%22type%22:%22advanced%22,%22values%22:%5B%7B%22constant%22:%22today%22%7D,%7B%7D%5D,%22id%22:2%7D%5D%7D",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 600 
-    }      
-    ,
-    {
       "comment":"AU Live",
       "url":"https://analytics.google.com/analytics/web/#/dashboard/kW6HbhFGQbuxb0daSIcLnQ/a41744088w71430810p73661826/",
       "duration": 20,
@@ -26,14 +19,7 @@
     }
     ,
     {
-      "url":"https://heapanalytics.com/app/dashboard/What-s-going-on-now-167568",
-      "duration":20,
-      "tabReloadIntervalSeconds": 600
-    }
-    ,
-    {
-      "comment":"Hour by Hour",
-      "url":"https://artifactuprising.looker.com/looks/1957?toggle=det",
+      "url":"https://heapanalytics.com/app/dashboard/Current-Tests-169551",
       "duration":20,
       "tabReloadIntervalSeconds": 600
     }
@@ -41,14 +27,6 @@
     {
       "url":"https://www.youtube.com/watch?v=7b5C2GN8C7s&feature=emb_logo",
       "duration":40
-    },
-    {
-      "url":"https://artifactuprising.zendesk.com/agent/reporting/overview/period:2/selected:created_count,solve_count"
-      ,"duration":20
-    },
-    {
-      "url":"https://artifactuprising.zendesk.com/agent/reporting/leaderboard/period:2"
-      ,"duration":20
     }
     ,
     {
